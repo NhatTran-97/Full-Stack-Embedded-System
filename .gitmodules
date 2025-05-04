@@ -1,6 +1,3 @@
-[submodule "differential_drive"]
-  path = Automatic_Irrigation_System
-  url = https://github.com/NhatTran-97/Automatic_Irrigation_System.git
 [submodule "Automatic_Irrigation_System"]
 	path = Automatic_Irrigation_System
 	url = https://github.com/NhatTran-97/Automatic_Irrigation_System.git
